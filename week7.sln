@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week7", "week7\week7.csproj", "{65E19D7D-F401-4782-B4CD-3F069C868397}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VigiliEMulte", "VigiliEMulte\VigiliEMulte.csproj", "{18966C11-4030-4E36-B750-A9E86AD46142}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65E19D7D-F401-4782-B4CD-3F069C868397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65E19D7D-F401-4782-B4CD-3F069C868397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65E19D7D-F401-4782-B4CD-3F069C868397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65E19D7D-F401-4782-B4CD-3F069C868397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18966C11-4030-4E36-B750-A9E86AD46142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18966C11-4030-4E36-B750-A9E86AD46142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18966C11-4030-4E36-B750-A9E86AD46142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18966C11-4030-4E36-B750-A9E86AD46142}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD29D41A-E79A-4CA3-80BB-B0F8DA8A9381}
+	EndGlobalSection
+EndGlobal
